@@ -83,6 +83,49 @@
 
 ---
 
+---
+<h2 align="center">Featured Projects</h2>
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/YourUsername/Project1">
+        <img src="https://path-to-your-image1.png" width="300px" alt="Project 1" />
+      </a>
+      <p align="center">
+        <a href="https://github.com/YourUsername/Project1">📦 Github Repo</a>
+      </p>
+    </td>
+    <td>
+      <a href="https://github.com/YourUsername/Project2">
+        <img src="https://path-to-your-image2.png" width="300px" alt="Project 2" />
+      </a>
+      <p align="center">
+        <a href="https://github.com/YourUsername/Project2">📦 Github Repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/YourUsername/Project3">
+        <img src="https://path-to-your-image3.png" width="300px" alt="Project 3" />
+      </a>
+      <p align="center">
+        <a href="https://github.com/YourUsername/Project3">📦 Github Repo</a>
+      </p>
+    </td>
+    <td>
+      <a href="https://github.com/YourUsername/Project4">
+        <img src="https://path-to-your-image4.png" width="300px" alt="Project 4" />
+      </a>
+      <p align="center">
+        <a href="https://github.com/YourUsername/Project4">📦 Github Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+---
+
 ## 📊 Analytics & Insights
 
 <div align="center">
