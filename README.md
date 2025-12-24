@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=250&section=header&text=Hello,%20I'm%20[Amine%20OMedjeber]%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=250&section=header&text=Hello,%20I'm%20Amine%20OMedjeber%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <h3> 🚀 Full-Stack Software Developer. </h3>
   <p><i>"A passionate software engineer who quickly adapts to new technologies and builds efficient, high-quality solutions."</i></p>
@@ -49,24 +49,43 @@
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     </td>
   </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h4>💾 Databases & Mobile</h4>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <br/>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <td align="center">
+      <a href="https://github.com/YourUsername/Project1">
+        <img src="https://via.placeholder.com/400x225.png?text=Project+1+Thumbnail" width="100%" alt="Project 1" style="border-radius:10px;"/>
+      </a>
+      <br />
+      <a href="https://github.com/YourUsername/Project1"><b>📂 Github Repo</b></a>
     </td>
-    <td width="50%" valign="top">
-      <h4>☁️ DevOps & Cloud</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-      <br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <td align="center">
+      <a href="https://github.com/YourUsername/Project2">
+        <img src="https://via.placeholder.com/400x225.png?text=Project+2+Thumbnail" width="100%" alt="Project 2" style="border-radius:10px;"/>
+      </a>
+      <br />
+      <a href="https://github.com/YourUsername/Project2"><b>📂 Github Repo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/YourUsername/Project3">
+        <img src="https://via.placeholder.com/400x225.png?text=Project+3+Thumbnail" width="100%" alt="Project 3" style="border-radius:10px;"/>
+      </a>
+      <br />
+      <a href="https://github.com/YourUsername/Project3"><b>📂 Github Repo</b></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YourUsername/Project4">
+        <img src="https://via.placeholder.com/400x225.png?text=Project+4+Thumbnail" width="100%" alt="Project 4" style="border-radius:10px;"/>
+      </a>
+      <br />
+      <a href="https://github.com/YourUsername/Project4"><b>📂 Github Repo</b></a>
     </td>
   </tr>
 </table>
@@ -74,57 +93,15 @@
 ---
 
 ## 📈 Learning Progress
-- **Advanced Kubernetes & Orchestration**     ![95%](https://geps.dev/progress/895)
+- **Advanced Kubernetes & Orchestration** ![95%](https://geps.dev/progress/85)
   
-- **Rust for System Performance**             ![90%](https://geps.dev/progress/90)
+- **Rust for System Performance** ![90%](https://geps.dev/progress/90)
   
-- **Cloud Native Architecture**               [80%](https://geps.dev/progress/80)
+- **Cloud Native Architecture** ![80%](https://geps.dev/progress/80)
   
 
 ---
 
----
-<h2 align="center">Featured Projects</h2>
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/YourUsername/Project1">
-        <img src="https://path-to-your-image1.png" width="300px" alt="Project 1" />
-      </a>
-      <p align="center">
-        <a href="https://github.com/YourUsername/Project1">📦 Github Repo</a>
-      </p>
-    </td>
-    <td>
-      <a href="https://github.com/YourUsername/Project2">
-        <img src="https://path-to-your-image2.png" width="300px" alt="Project 2" />
-      </a>
-      <p align="center">
-        <a href="https://github.com/YourUsername/Project2">📦 Github Repo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/YourUsername/Project3">
-        <img src="https://path-to-your-image3.png" width="300px" alt="Project 3" />
-      </a>
-      <p align="center">
-        <a href="https://github.com/YourUsername/Project3">📦 Github Repo</a>
-      </p>
-    </td>
-    <td>
-      <a href="https://github.com/YourUsername/Project4">
-        <img src="https://path-to-your-image4.png" width="300px" alt="Project 4" />
-      </a>
-      <p align="center">
-        <a href="https://github.com/YourUsername/Project4">📦 Github Repo</a>
-      </p>
-    </td>
-  </tr>
-</table>
----
 
 ## 📊 Analytics & Insights
 
