@@ -77,23 +77,23 @@
 
 <div align="center">
   <a href="https://github.com/YourUsername/Project1">
-    <img src="img/project-1.png" alt="Project 1" height="120px" />
+    <img src="img/project-1.png" alt="Project 1" height="140px" />
   </a>
   <a href="https://github.com/YourUsername/Project2">
-    <img src="img/project-2.png" alt="Project 2" height="120px" />
+    <img src="img/project-2.png" alt="Project 2" height="140px" />
   </a>
   <a href="https://github.com/YourUsername/Project3">
-    <img src="img/project-3.png" alt="Project 3" height="120px" />
+    <img src="img/project-3.png" alt="Project 3" height="140px" />
   </a>
   <br />
   <a href="https://github.com/YourUsername/Project4">
-    <img src="img/project-4.png" alt="Project 4" height="120px" />
+    <img src="img/project-4.png" alt="Project 4" height="140px" />
   </a>
   <a href="https://github.com/YourUsername/Project5">
-    <img src="img/project-5.png" alt="Project 5" height="120px" />
+    <img src="img/project-5.png" alt="Project 5" height="140px" />
   </a>
   <a href="https://github.com/YourUsername/Project6">
-    <img src="img/project-6.png" alt="Project 6" height="120px" />
+    <img src="img/project-6.png" alt="Project 6" height="140px" />
   </a>
 </div>
 
