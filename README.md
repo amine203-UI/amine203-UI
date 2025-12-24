@@ -99,30 +99,6 @@
 
 ---
 
-## 📈 Learning Progress
-- **Advanced Kubernetes & Orchestration** ![95%](https://geps.dev/progress/85)
-  
-- **Rust for System Performance** ![90%](https://geps.dev/progress/90)
-  
-- **Cloud Native Architecture** ![80%](https://geps.dev/progress/80)
-  
-
----
-
-
-## 📊 Analytics & Insights
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=a855f7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&stroke=6366f1&ring=a855f7&fire=a855f7" />
-</div>
-
----
-
 ## 📫 Let's Connect
 <div align="center">
   <a href="[PORTFOLIO_LINK]"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
