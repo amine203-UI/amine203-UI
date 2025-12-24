@@ -55,54 +55,27 @@
 
 ## 🚀 Featured Projects
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/YourUsername/Project1">
-        <img src="img/project-1.png" width="100%" alt="Project 1" style="border-radius:10px;"/>
-      </a>
-      <br />
-      <a href="https://github.com/YourUsername/Project1"><b>📂 Github Repo</b></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YourUsername/Project2">
-        <img src="img/project-2.png" width="100%" alt="Project 2" style="border-radius:10px;"/>
-      </a>
-      <br />
-      <a href="https://github.com/YourUsername/Project2"><b>📂 Github Repo</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/YourUsername/Project3">
-        <img src="img/project-3.png" width="100%" alt="Project 3" style="border-radius:10px;"/>
-      </a>
-      <br />
-      <a href="https://github.com/YourUsername/Project3"><b>📂 Github Repo</b></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YourUsername/Project4">
-        <img src="img/project-4.png" width="100%" alt="Project 4" style="border-radius:10px;"/>
-      </a>
-      <br />
-      <a href="https://github.com/YourUsername/Project4"><b>📂 Github Repo</b></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YourUsername/Project4">
-        <img src="img/project-5.png" width="100%" alt="Project 4" style="border-radius:10px;"/>
-      </a>
-      <br />
-      <a href="https://github.com/YourUsername/Project4"><b>📂 Github Repo</b></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/YourUsername/Project4">
-        <img src="img/project-6.png" width="100%" alt="Project 4" style="border-radius:10px;"/>
-      </a>
-      <br />
-      <a href="https://github.com/YourUsername/Project4"><b>📂 Github Repo</b></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/YourUsername/Project1">
+    <img src="img/project-1.png" alt="Project 1" height="180px" />
+  </a>
+  <a href="https://github.com/YourUsername/Project2">
+    <img src="img/project-2.png" alt="Project 2" height="180px" />
+  </a>
+  <a href="https://github.com/YourUsername/Project3">
+    <img src="img/project-3.png" alt="Project 3" height="180px" />
+  </a>
+  <br />
+  <a href="https://github.com/YourUsername/Project4">
+    <img src="img/project-4.png" alt="Project 4" height="180px" />
+  </a>
+  <a href="https://github.com/YourUsername/Project5">
+    <img src="img/project-5.png" alt="Project 5" height="180px" />
+  </a>
+  <a href="https://github.com/YourUsername/Project6">
+    <img src="img/project-6.png" alt="Project 6" height="180px" />
+  </a>
+</div>
 
 ---
 
