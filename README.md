@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Technical Ecosystem
+# 💻 Tech Stack
 
 <table width="100%">
   <tr>
@@ -108,6 +108,12 @@
 </div>
 
 <br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:a855f7&height=20&section=footer" width="100%" />
