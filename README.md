@@ -66,7 +66,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/YourUsername/Project2">
-        <img src="https://via.placeholder.com/400x225.png?text=Project+2+Thumbnail" width="100%" alt="Project 2" style="border-radius:10px;"/>
+        <img src="img/project-2.png" width="100%" alt="Project 2" style="border-radius:10px;"/>
       </a>
       <br />
       <a href="https://github.com/YourUsername/Project2"><b>📂 Github Repo</b></a>
@@ -75,14 +75,28 @@
   <tr>
     <td align="center">
       <a href="https://github.com/YourUsername/Project3">
-        <img src="https://via.placeholder.com/400x225.png?text=Project+3+Thumbnail" width="100%" alt="Project 3" style="border-radius:10px;"/>
+        <img src="img/project-3.png" width="100%" alt="Project 3" style="border-radius:10px;"/>
       </a>
       <br />
       <a href="https://github.com/YourUsername/Project3"><b>📂 Github Repo</b></a>
     </td>
     <td align="center">
       <a href="https://github.com/YourUsername/Project4">
-        <img src="https://via.placeholder.com/400x225.png?text=Project+4+Thumbnail" width="100%" alt="Project 4" style="border-radius:10px;"/>
+        <img src="img/project-4.png" width="100%" alt="Project 4" style="border-radius:10px;"/>
+      </a>
+      <br />
+      <a href="https://github.com/YourUsername/Project4"><b>📂 Github Repo</b></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YourUsername/Project4">
+        <img src="img/project-5.png" width="100%" alt="Project 4" style="border-radius:10px;"/>
+      </a>
+      <br />
+      <a href="https://github.com/YourUsername/Project4"><b>📂 Github Repo</b></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/YourUsername/Project4">
+        <img src="img/project-6.png" width="100%" alt="Project 4" style="border-radius:10px;"/>
       </a>
       <br />
       <a href="https://github.com/YourUsername/Project4"><b>📂 Github Repo</b></a>
