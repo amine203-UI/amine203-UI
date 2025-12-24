@@ -77,7 +77,7 @@
 
 <div align="center">
   <a href="https://github.com/YourUsername/Project1">
-    <img src="img/project-1.png" alt="Project 1" height="140px" />
+    <img src="img/project-1.png" alt="Project 1" height="160px" />
   </a>
   <a href="https://github.com/YourUsername/Project2">
     <img src="img/project-2.png" alt="Project 2" height="160px" />
