@@ -76,9 +76,11 @@
 ---
 
 ## 📈 Learning Progress
-- **Advanced Kubernetes & Orchestration** ![95%](https://geps.dev/progress/895)
-- **Rust for System Performance** ![90%](https://geps.dev/progress/90)
-- **Cloud Native Architecture** [80%](https://geps.dev/progress/80)
+- **Advanced Kubernetes & Orchestration**     ![95%](https://geps.dev/progress/895)
+  
+- **Rust for System Performance**             ![90%](https://geps.dev/progress/90)
+  
+- **Cloud Native Architecture**               [80%](https://geps.dev/progress/80)
   
 
 ---
