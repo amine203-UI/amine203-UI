@@ -1,70 +1,109 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=250&section=header&text=Hello,%20I'm%20[Your%20Name]%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
-# 👨‍💻 [Your Name]
-### Full-Stack Engineer | Open Source Enthusiast | Tech Architect
+  <h3>🎓 Computer Science Student | 🚀 Full-Stack Developer</h3>
+  <p><i>"Building tools that make life easier and the web more powerful."</i></p>
 
-<p align="center">
-  <a href="https://yourwebsite.com">🌐 Portfolio</a> •
-  <a href="mailto:your@email.com">📧 Contact Me</a> •
-  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
-</p>
-
----
-
-"Transforming complex problems into elegant, scalable code."
-
+  <p align="center">
+    <img src="https://img.shields.io/badge/Open%20To-Collaboration-6366f1?style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?color=a855f7&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-6366f1?style=for-the-badge" />
+  </p>
 </div>
 
+---
+
 ## 📖 About Me
-
-I am a highly driven software professional with a focus on building **performant, user-centric applications**. With a background in [Your Industry], I specialize in bridging the gap between robust backend logic and intuitive frontend design. 
-
-- 🚀 Currently scaling [Project Name/Company Name]
-- 💡 Passionate about **System Architecture** and **UX Design**
-- 🎓 [Your Degree/Certification] from [University/Platform]
-- ⚡ Fun fact: I spend my weekends [Your Hobby]
+- 🔭 **Current Role:** Full-stack Developer focusing on scalable system architecture.
+- 🌱 **Learning Journey:** Deep-diving into Advanced DevOps and Microservices.
+- 💡 **Philosophy:** I believe in writing code that is as beautiful as the UI it powers.
+- ⚡ **Interests:** Competitive Programming, Open Source, and UI/UX Design.
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Ecosystem
 
-### 💻 Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### ☁️ Infrastructure & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend & Design</h4>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+      <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Systems</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💾 Databases & Mobile</h4>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ DevOps & Cloud</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Project Alpha** | A real-time data visualization dashboard. | React, D3.js, Firebase | [View Repo](https://github.com/) |
-| **Sentinel API** | High-performance auth gateway. | Go, Redis, Docker | [View Repo](https://github.com/) |
-
----
-
-## 📈 Activity & Insights
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USER]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USER]&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USER]&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## 📈 Learning Progress
+- **Advanced Kubernetes & Orchestration**
+  - ![80%](https://geps.dev/progress/80)
+- **Rust for System Performance**
+  - ![45%](https://geps.dev/progress/45)
+- **Cloud Native Architecture**
+  - ![60%](https://geps.dev/progress/60)
 
 ---
+
+## 📊 Analytics & Insights
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=a855f7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&stroke=6366f1&ring=a855f7&fire=a855f7" />
+</div>
+
+---
+
+## 📫 Let's Connect
+<div align="center">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/[YOUR_TWITTER]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:a855f7&height=20&section=footer" width="100%" />
 </div>
