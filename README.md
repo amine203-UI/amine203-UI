@@ -44,14 +44,28 @@ I am a dedicated Computer Science student and Full-Stack Developer driven by the
   </tr>
 </table>
 
----
+## 🌐 Linguistic & Professional Mastery
 
-## 🌍 Language & Soft Skills
-**Languages:** `Arabic (Native)` • `English (Professional)` • `French (Intermediate)`
-
-**Soft Skills:** `Problem Solving` • `Team Leadership` • `Critical Thinking` • `Agile Methodology`
-
----
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h4>🗣️ Languages</h4>
+      <img src="https://img.shields.io/badge/Arabic-Native%20Speaker-0f172a?style=for-the-badge&logo=target&logoColor=white&labelColor=94a3b8" />
+      <br/>
+      <img src="https://img.shields.io/badge/English-Professional%20Fluent-0f172a?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=94a3b8" />
+      <br/>
+      <img src="https://img.shields.io/badge/French-Intermediate-0f172a?style=for-the-badge&logo=language&logoColor=white&labelColor=94a3b8" />
+    </td>
+    <td width="50%" align="center">
+      <h4>🧠 Professional Soft Skills</h4>
+      <img src="https://img.shields.io/badge/Architecture-System%20Design-0f172a?style=for-the-badge&logo=architecture&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Leadership-Agile%20Scrum-0f172a?style=for-the-badge&logo=google-cloud-run&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Thinking-Problem%20Solver-0f172a?style=for-the-badge&logo=lightbulb&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ## 📈 Current Specialization (Learning)
 
