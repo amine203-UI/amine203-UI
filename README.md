@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=250&section=header&text=Hello,%20I'm%20[Your%20Name]%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=250&section=header&text=Hello,%20I'm%20[Amine%20OMedjeber]%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h3>🎓 Computer Science Student | 🚀 Full-Stack Developer</h3>
-  <p><i>"Building tools that make life easier and the web more powerful."</i></p>
+  <h3> 🚀 Full-Stack Software Developer. </h3>
+  <p><i>"A passionate software engineer who quickly adapts to new technologies and builds efficient, high-quality solutions."</i></p>
 
   <p align="center">
+    <img src="https://img.shields.io/badge/Status-Available_for_Projects-6366f1?style=for-the-badge&labelColor=0f172a" />
     <img src="https://img.shields.io/badge/Open%20To-Collaboration-6366f1?style=for-the-badge" />
-    <img src="https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?color=a855f7&style=for-the-badge&logo=github" />
     <img src="https://img.shields.io/badge/Maintained%3F-yes-6366f1?style=for-the-badge" />
   </p>
 </div>
@@ -30,15 +30,18 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+       <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       <br/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-      <img src="https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Backend & Systems</h4>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
       <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
@@ -73,12 +76,10 @@
 ---
 
 ## 📈 Learning Progress
-- **Advanced Kubernetes & Orchestration**
-  - ![80%](https://geps.dev/progress/80)
-- **Rust for System Performance**
-  - ![45%](https://geps.dev/progress/45)
-- **Cloud Native Architecture**
-  - ![60%](https://geps.dev/progress/60)
+- **Advanced Kubernetes & Orchestration** ![95%](https://geps.dev/progress/895)
+- **Rust for System Performance** ![90%](https://geps.dev/progress/90)
+- **Cloud Native Architecture** [80%](https://geps.dev/progress/80)
+  
 
 ---
 
