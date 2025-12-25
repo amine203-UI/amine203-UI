@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=250&section=header&text=Hello,%20I'm%20Amine%20Medjeber&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h3> 🚀 Full-Stack Software Developer. </h3>
+  <h3>  Full-Stack Software Developer | Application Developer | Cloud & DevOps </h3>
   <p><i>"A passionate software engineer who quickly adapts to new technologies and builds efficient, high-quality solutions."</i></p>
 
   <p align="center">
