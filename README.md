@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=250&section=header&text=Hello,%20I'm%20Amine%20Medjeber&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h2>  Full-Stack Software Developer | Application Developer | Cloud & DevOps </h3>
-  <p><i>"A passionate software engineer who quickly adapts to new technologies and builds efficient, high-quality solutions."</i></p>
+  <h2>  Full-Stack Software Developer | Application Developer | Cloud & DevOps. </h3>
+  <p>"A passionate software engineer who quickly adapts to new technologies and builds efficient, high-quality solutions."</p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Available_for_Projects-6366f1?style=for-the-badge&labelColor=0f172a" />
