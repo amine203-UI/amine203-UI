@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Maintained%3F-yes-6366f1?style=for-the-badge" />
   </p>
 </div>
-
+---
 ## 📖 About Me
 
 <img align="right" alt="Coding" width="280" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -22,16 +22,8 @@
 * ⚡ **Interests:** Competitive Programming, UI/UX Design, and Coffee Brewing.
 * 💡 **Philosophy:** I believe in writing code that is as beautiful as the UI it powers.
 
+<br clear="right"/>
 ---
-
-### 🚀 Quick Stats
-* 🏎️ Focused on performance optimization and clean code.
-* 🎨 High attention to detail in visual design and accessibility.
-* 🔧 Experienced in building end-to-end solutions from scratch.
-
-<br clear="right"/>
-<br clear="right"/>
-
 # 💻 Tech Stack
 
 <table width="100%">
